@@ -1,0 +1,6 @@
+{
+ "registrationOpen":true,
+ "feeSen":5000,
+ "appsScriptUrl":"https://script.google.com/macros/s/AKfycbwQJSnYXBwEcRSELCBhQAdpFeFzwlQJhTZbhYWkjzEEO1lOsT4UyYVNMIuZXzg5dqiM/exec",
+ "bank":{"name":"MAYBANK","holder":"HERYANI BINTI MOHAMAD MUKHAIR","number":"501114422550","qr":"./maybank-qr.png"}
+}
